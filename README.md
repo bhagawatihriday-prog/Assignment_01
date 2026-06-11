@@ -1,4 +1,4 @@
-# Assignment_010
+# Assignment_10
 Design a student system in Python with:
 
 Address class (street, city, zipCode)
